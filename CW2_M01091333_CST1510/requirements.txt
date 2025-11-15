@@ -1,0 +1,3 @@
+Needed requirements to be able to run this program are as follows:
+bcrypt >= 4.0.0
+pandas
